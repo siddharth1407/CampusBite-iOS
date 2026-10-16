@@ -1,0 +1,33 @@
+# Xcode
+## User settings
+xcuserdata/
+*.xcuserdatad
+
+## Build generated
+build/
+DerivedData/
+*.moved-aside
+*.xcuserstate
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+## Swift Package Manager
+.build/
+Packages/
+
+## CocoaPods
+Pods/
+
+## Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+## Local preview and interview guides (not pushed to GitHub)
+PORTFOLIO_RESUME_GUIDE.md
+*.html
+*.gif
