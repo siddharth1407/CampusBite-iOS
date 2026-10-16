@@ -12,7 +12,7 @@
 
 Built with **Swift 6**, **SwiftUI**, and Apple's modern **Observation Framework (`@Observable`)**, CampusBite bridges on-campus canteens (*Khokha Market, Brahmaputra Night Canteen, SAC Food Outlets, Core 1*) with late-night hostel deliveries.
 
-Developed by **[Siddharth Patel](https://github.com/siddharthpatel)** (B.Tech, IIT Guwahati) as an iOS Software Engineering portfolio project.
+Developed by **[Siddharth Patel](https://github.com/siddharth1407)** (B.Tech, IIT Guwahati) as an iOS Software Engineering portfolio project.
 
 ---
 
@@ -130,7 +130,7 @@ DeliveryApp/
 *B.Tech Student & Aspiring iOS Software Engineer*  
 *Indian Institute of Technology Guwahati (IITG)*  
 * **Email**: [siddharthkota01@gmail.com](mailto:siddharthkota01@gmail.com)  
-* **GitHub**: [@siddharthpatel](https://github.com/siddharthpatel)
+* **GitHub**: [@siddharth1407](https://github.com/siddharth1407)
 
 ---
 

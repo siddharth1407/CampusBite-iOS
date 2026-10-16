@@ -1225,7 +1225,7 @@ struct ProfileFeedView: View {
                     
                     // Developer GitHub Link
                     VStack(spacing: 12) {
-                        Link(destination: URL(string: "https://github.com/siddharthpatel") ?? URL(string: "https://github.com")!) {
+                        Link(destination: URL(string: "https://github.com/siddharth1407") ?? URL(string: "https://github.com")!) {
                             HStack {
                                 Image(systemName: "chevron.left.forwardslash.chevron.right")
                                     .foregroundStyle(Color.brandPink)
